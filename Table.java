@@ -4,7 +4,7 @@ public class Table {
 	
 	public static void main(String args[])
 	{
-		//Scanner object
+		//Scanner object in this class
 		Scanner scan=new Scanner(System.in);
 		
 		System.out.println("Enter the number");
